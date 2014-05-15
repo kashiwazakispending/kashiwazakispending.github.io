@@ -10,10 +10,8 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-//OpenSpending.identifier = 'otaku_2013_budget'; 
 OpenSpending.identifier = 'kashiwazaki_yosan_2013'; 
 OpenSpending.year = '2013';
-//OpenSpending.year = '2012';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
